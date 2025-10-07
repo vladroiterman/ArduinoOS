@@ -1,0 +1,3 @@
+Arduino uno
+esp32 with tft screen 2.8 and sd card
+bread board
